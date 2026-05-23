@@ -1,4 +1,4 @@
-## Hi there, I'm Hemanth Reddy Aeddulla
+## Hi there, I'm Hemanth Reddy
 
 <p>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hemanthreddynyc@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
